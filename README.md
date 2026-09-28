@@ -103,6 +103,7 @@ This project was built to practice **Python, Pandas, data processing, modular pr
 
 ## 👨‍💻 Author
 
-**Your Name**
+MOHD ALMAS QURESHI
+
 
 GitHub: https://github.com/mohd-almas786
